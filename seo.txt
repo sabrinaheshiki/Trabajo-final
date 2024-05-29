@@ -3,7 +3,18 @@ Tercera pre-entrega
 Aplicación del SEO
 
 - Agregué las etiquetas meta description y keywords en todas las páginas.
+ En el index.html:          <meta name="description" content="En Mi Pichicho encontrarás a tu mejor amigo, compañero. Adoptá un perro">
+                            <meta name="keywords" content="mascota, adopción de perro, compañero fiel, perro como apoyo emocional">
+ somos.html:                <meta name="description" content="Rescatamos perros y damos en adopción">
+                            <meta name="keywords" content="misión, rescate, adopción">     
+ servicios.html:            <meta name="description" content="curar, rescatar, concientizar sobre el maltrato animal">
+                            <meta name="keywords" content="campañas sobre vacunación, adopción ">
+ adoptar un perro.html:     <meta name="description" content="Adoptá un perro, tu mascota, tu compañero">
+                            <meta name="keywords" content="apoyo emocional, brinda compañia">
+ contacto.html:             <meta name="description" content="consulta sobre adopción de perro, tu mascota, tu compañero">
+                            <meta name="keywords" content="interés animal,apoyo emocional, brinda compañia">
+- Inserté un favicón                     
 - Incluí texto en atributo "alt" en todas las imágenes, por ej. si un usuario no puede ver la imagen o la imagen en el sitio no se encuentra disponible.
 - Titulos de páginas: escribí un título diferente en cada página acorde al contenido.
 - Jerarquía de encabezado: los títulos que consideré el más importante lo escribí con h1 y las demás con h2, h3,... etc. según la jerarquía.
-- Tuve en cuenta el tamaño de las imágenes, los convertí en formato webp. y las redimensioné con herramientas de optimizado "Resizepixel".
+- Convertí las imágnes en formato webp. y las redimensioné con herramientas de optimizado "Resizepixel".
