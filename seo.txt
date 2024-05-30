@@ -17,4 +17,4 @@ Aplicación del SEO
 - Incluí texto en atributo "alt" en todas las imágenes, por ej. si un usuario no puede ver la imagen o la imagen en el sitio no se encuentra disponible.
 - Titulos de páginas: escribí un título diferente en cada página acorde al contenido.
 - Jerarquía de encabezado: los títulos que consideré el más importante lo escribí con h1 y las demás con h2, h3,... etc. según la jerarquía.
-- Convertí las imágnes en formato webp. y las redimensioné con herramientas de optimizado "Resizepixel".
+- Convertí las imágnes en formato webp y las redimensioné con herramientas de optimizado "Resizepixel".
