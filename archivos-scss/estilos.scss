@@ -5,7 +5,7 @@ $color-primary: blueviolet;
 $color-secondary:#3d3350;
 $color-warning: rgb(243, 201, 110);
 $color-dark: whitesmoke;
-
+$color-danger: rgb(54, 156, 61);
 
 *{
     margin: 0;
@@ -60,7 +60,7 @@ footer {
 /*FOOTER FIN*/
 /*WHATSAPP INICIO */
 .what {
-    color: rgb(54, 156, 61);
+    color: $color-danger;
     position: fixed;
     right: 40px;
     bottom: 40px;
